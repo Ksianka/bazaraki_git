@@ -33,3 +33,6 @@ The initial project was built on Heroku. You can find proper Procfile in the pro
 Current interval is 2 hours or 7200 seconds. For another interval
 update parametr interval= in the code telegram_bot.py, line 35.
 
+##Expected result:
+
+Screenshot 2019-07-02 at 15.28.22.psdb
