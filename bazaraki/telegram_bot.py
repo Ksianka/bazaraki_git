@@ -24,7 +24,7 @@ def start(bot, update):
     sent_count = 0
     for ad in adverts:
         if bytes(adverts[ad], 'utf-8') not in keys:
-            bot.send_message(chat_id='', text=str(adverts[ad]))  # Input your bot @name in chat_id as str
+            bot.send_message(chat_id='', text=str(adverts[ad]))  # Input your Telegram Channel name in chat_id as str
             sent_count += 1
             r.set(adverts[ad], str(datetime.datetime.now()))
 
