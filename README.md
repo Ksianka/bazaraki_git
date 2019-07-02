@@ -10,7 +10,7 @@ see link for help - https://core.telegram.org/bots#6-botfather
 
 2. Insert your bot token to the code: telegram_bot.py, line 6
 
-3. Create Telegram Channel or use existing one. Add the bot as Administrator to it.
+3. Create Telegram Channel or use existing one. Add the bot as Administrator.
 
 4. Insert name of the Telegram Channel to the code: telegram_bot.py, line 6
 
@@ -29,7 +29,7 @@ Localhost - uncomment telegram_bot.py, line 15; or external platform,
 for example Heroku - use telegram_bot.py, line 14.
 The initial project was built on Heroku. You can find proper Procfile in the project.
 
-9. Decide about frequency of bot parsing and message sending. 
+9. Decide about frequency for bot parsing and message sending. 
 Current interval is 2 hours or 7200 seconds. For another interval
 update parametr interval= in the code telegram_bot.py, line 35.
 
