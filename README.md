@@ -12,7 +12,7 @@ see link for help - https://core.telegram.org/bots#6-botfather
 
 3. Create Telegram Channel or use existing one. Add the bot as Administrator.
 
-4. Insert name of the Telegram Channel to the code: telegram_bot.py, line 6
+4. Insert name of the Telegram Channel to the code: telegram_bot.py, line 27
 
 5. Get your Bazaraki search link for apartment/house/villa rent with
 your selected filters. For example:
