@@ -3,7 +3,7 @@
 
 After you clone the project. 
 
-### In oder to start your Telegram channel with Bazaraki rent adverts:
+## In oder to start your Telegram channel with Bazaraki rent adverts:
 
 1. Get your Telegram bot token. You can create new one with Telegram Botfather.
 see link for help - https://core.telegram.org/bots#6-botfather
